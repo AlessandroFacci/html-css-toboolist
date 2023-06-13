@@ -54,9 +54,11 @@ main{
 .button-section{
     background-color: white;
     color: gray;
-    padding: 5px;
+    padding: 6px;
     border-radius: 5px;
-    border-color: lightgrey;
+    border: 1px solid gray;
+    size: 10px;
+
 }
 
 h3{
@@ -95,6 +97,7 @@ h3{
     text-align: center;
     line-height: 20px;
     margin-bottom: 10px;
+    border: 1px solid green;
 }
 
 .cross{
@@ -107,6 +110,7 @@ h3{
     text-align: center;
     line-height: 20px;
     margin-bottom: 10px;
+    border: 1px solid red;
 }
 
 .editorial{
