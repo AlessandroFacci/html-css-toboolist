@@ -40,5 +40,26 @@ main{
     margin: 50px auto;
     background-color: white;
     border-radius: 5px;
+}
 
+.button-task{
+    background-color: #47ADF1;
+    color: white;
+    padding: 6px;
+    border-radius: 5px;
+    border: 0;
+}
+
+.button-section{
+    background-color: white;
+    color: gray;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: lightgrey;
+}
+
+.first-section{
+    height: 50px;
+    line-height: 50px;
+    margin-left: 40px;
 }
